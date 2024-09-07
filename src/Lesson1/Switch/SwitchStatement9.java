@@ -35,7 +35,7 @@ public class SwitchStatement9 {
 //                size="Unknown";
 //                break;
 //        }
-//        System.out.println("Size: "+size);
+        System.out.println("Size: "+size);
         scan.close();
 
 

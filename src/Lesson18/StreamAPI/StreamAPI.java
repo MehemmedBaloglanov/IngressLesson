@@ -477,15 +477,4 @@ public class StreamAPI {
                 .skip(5)
                 .forEach(System.out::println);
     }
-
-
-
-
-
-
-
-
-
-
-
 }

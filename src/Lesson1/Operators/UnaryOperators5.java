@@ -4,7 +4,8 @@ public class UnaryOperators5 {
     public static void main(String[] args) {
         //declare variables
         int a = 12, b=12;
-        int resualt1,resualt2;
+        int resualt1 , resualt2;
+
 
         //original value of a
         System.out.println("Value of a: "+a);

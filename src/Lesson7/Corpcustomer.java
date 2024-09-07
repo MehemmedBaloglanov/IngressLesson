@@ -1,6 +1,6 @@
 package Lesson7;
 
-public class Corpcustomer extends Customer{
+public class Corpcustomer extends Customer {
 
     public Corpcustomer(long id, String name,Corploan corploan) {
         super(id, name, corploan);

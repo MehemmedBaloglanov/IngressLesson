@@ -2,7 +2,7 @@ package Lesson3.String2;
 
 public class String2{
     public static void main(String[] args) {
-
+     example14();
 
     }
     static void example1(){
@@ -99,7 +99,8 @@ public class String2{
         sb.append(true);
         System.out.println(sb);
         sb.append(1);
-        System.out.println(sb);
+        String a = sb.toString();
+        System.out.println(a);
     }
 
     static void example15(){

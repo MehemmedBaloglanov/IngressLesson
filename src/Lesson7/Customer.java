@@ -13,6 +13,7 @@ public abstract class Customer implements DiscountService{
         this.loan = loan;
     }
 
+
     public Customer() {
 
     }
